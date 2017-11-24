@@ -1,6 +1,6 @@
 {
-  "name": "Ionic",
-  "short_name": "Ionic",
+  "name": "GuaraniSound",
+  "short_name": "GS",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{
